@@ -1,3 +1,14 @@
 html,body{
-    background-color: red;
+    
+}
+
+table
+{
+    border:1px solid grey;
+}
+
+table tr td, table tr th {
+    border:1px solid grey;
+    text-align: center;
+    padding:.25rem .5rem;
 }
